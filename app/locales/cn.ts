@@ -44,7 +44,7 @@ const cn = {
     },
     Commands: {
       new: "新建聊天",
-      newm: "从场景新建聊天",
+      newm: "新建聊天场景",
       next: "下一个聊天",
       prev: "上一个聊天",
       clear: "清除上下文",
@@ -75,7 +75,7 @@ const cn = {
     Send: "发送",
     Config: {
       Reset: "清除记忆",
-      SaveAs: "存为场景",
+      SaveAs: "保存此场景",
     },
     IsContext: "预设提示词",
   },
